@@ -1,6 +1,6 @@
 # Vim AWS-PlantUML Snippet
 
-This vim-aws-plantuml-snippets produces a snipppets file for [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) to Vim.
+This vim-aws-plantuml-snippets produces a snippets file for [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) to Vim.
 
 # Install
 
