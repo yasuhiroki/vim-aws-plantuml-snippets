@@ -2,6 +2,10 @@
 
 This vim-aws-plantuml-snippets produces a snippets file for [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) to Vim.
 
+# Depends
+
+- [vim-plantuml-snippets](https://github.com/yasuhiroki/vim-plantuml-snippets)
+
 # Install
 
 ## dein.vim
